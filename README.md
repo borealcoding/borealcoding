@@ -1,4 +1,5 @@
-### Hi there! I'm Edward 👋
+# Hi there! I'm Edward 👋
+
 
 ## 👨🏻‍💻 &nbsp; About Me
 
@@ -14,6 +15,7 @@
 * DEV.to: 
 * Medium:  -->
 
+
 ## 🛠 &nbsp; Tech Stack
 
 - 📱 &nbsp; Java | React Native | Android
@@ -22,6 +24,7 @@
 - 🛢 &nbsp; MySQL | MongoDB | Firebase | XAMPP
 - 🔧 &nbsp; Android Studio | IntelliJ IDEA | Visual Studio Code | Eclipse | Git 
 - 🖥 &nbsp; Figma | Axure | Photoshop
+
 
 > I love connecting with different people, so, if you want to meet me and share hobbies and interests, say hi! 
 > I'll be happy to meet you more :D
