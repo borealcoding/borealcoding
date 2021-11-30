@@ -1,5 +1,5 @@
-# Hi there! I'm Edward 👋
-
+### Hi there! I'm Edward 👋
+<img align="right" src="./img/profilePhoto.png" width="50"></img>
 
 ## 👨🏻‍💻 &nbsp; About Me
 
@@ -26,5 +26,5 @@
 - 🖥 &nbsp; Figma | Axure | Photoshop
 
 
-> I love connecting with different people, so, if you want to meet me and share hobbies and interests, say hi! 
-> I'll be happy to meet you more :D
+> ***I love connecting with different people, so, if you want to meet me and share hobbies and interests, say hi!*** 
+> ***I'll be happy to meet you more :D***
