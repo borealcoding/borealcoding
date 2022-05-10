@@ -3,7 +3,7 @@
 [![Linkedin: eruach](https://img.shields.io/badge/-eruach-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eruach/)](https://www.linkedin.com/in/eruach/)
 [![GitHub borealcoding](https://img.shields.io/github/followers/borealcoding?label=follow&style=social)](https://github.com/borealcoding) 
 [![Gmail Badge](https://img.shields.io/badge/-borealcoding.edv@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:borealcoding.edv@gmail.com)](mailto:borealcoding.edv@gmail.com)
-<img align="right" src="./img/me.png" width="200"></img>
+<img align="right" src="./img/description-photo.png" width="200"></img>
 
 
 ### 🧑🏻‍💻 &nbsp; About Me
@@ -20,7 +20,7 @@
 
 - 📱 &nbsp; Java | React Native | Android
 - 💻 &nbsp; Windows | Linux
-- 🌐 &nbsp; HTML | CSS | JavaScript | React | PHP
+- 🌐 &nbsp; HTML | CSS | JavaScript | React | Angular
 - 🛢 &nbsp; MySQL | MongoDB | Firebase | XAMPP
 - 🔧 &nbsp; Android Studio | IntelliJ IDEA | Visual Studio Code | Eclipse | Git 
 - 🖥 &nbsp; Figma | Axure | Photoshop
