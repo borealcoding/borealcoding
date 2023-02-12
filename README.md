@@ -1,4 +1,4 @@
-## Hi there! I'm Edward 👋
+## Hi there! I'm Eduard 👋
 [![Twitter: borealcode](https://img.shields.io/twitter/follow/borealcode?style=social)](https://twitter.com/borealcode)
 [![Linkedin: eruach](https://img.shields.io/badge/-eruach-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eruach/)](https://www.linkedin.com/in/eruach/)
 [![GitHub borealcoding](https://img.shields.io/github/followers/borealcoding?label=follow&style=social)](https://github.com/borealcoding) 
