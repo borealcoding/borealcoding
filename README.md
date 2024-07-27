@@ -2,7 +2,7 @@
 [![LinkedIn: eruach](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eruach/)
 [![Behance: borealcode](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/borealcode)
 
-<img style="border-radius: 50%;" align="right" src="./img/me.jpg" width="200"></img>
+<img align="right" src="./img/me.png" width="200"></img>
 
 
 ### 🧑🏻‍💻 &nbsp; About Me
