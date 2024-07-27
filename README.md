@@ -1,8 +1,8 @@
 ## Hi there! I'm Eduard 👋
-[![Linkedin: eruach](https://img.shields.io/badge/-eruach-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eruach/)](https://www.linkedin.com/in/eruach/)
-[![GitHub borealcoding](https://img.shields.io/github/followers/borealcoding?label=follow&style=social)](https://github.com/borealcoding) 
-[![Gmail Badge](https://img.shields.io/badge/-borealcode@proton.me-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:borealcode@proton.me)](mailto:borealcode@proton.me)
-<img align="right" src="./img/me.png" width="200"></img>
+[![LinkedIn: eruach](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eruach/)
+[![Behance: borealcode](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/borealcode)
+
+<img style="border-radius: 50%;" align="right" src="./img/me.jpg" width="200"></img>
 
 
 ### 🧑🏻‍💻 &nbsp; About Me
@@ -20,10 +20,12 @@
 - 🖥️ &nbsp; COBOL | Java | React Native | Android
 - 💿 &nbsp; Windows | Linux
 - 🌐 &nbsp; HTML | CSS | JavaScript | React | PHP | Angular
-- 🛢 &nbsp; MySQL | MongoDB | Firebase | XAMPP
+- 🛢 &nbsp;&nbsp; MySQL | MongoDB | DB2 | DL/I | Firebase | XAMPP
 - 🔧 &nbsp; Android Studio | IntelliJ IDEA | Visual Studio Code | Eclipse | Git 
-- 🖥 &nbsp; Figma | Axure | Photoshop
+- 🖥 &nbsp; &nbsp;Figma | Axure | Adobe Lightroom
 
 
 > ***I love connecting with different people, so, if you want to meet me and share hobbies and interests, say hi!*** 
 > ***I'll be happy to meet you more :D***
+
+**If you want to contact me for anything, you can send an email to borealcode@proton.me**
